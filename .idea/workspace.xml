@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0710a7d0-c48c-4dd5-bcca-901969d7bd39" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FunkProgInlamning2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/AoC2018Day1/ChronalCalibration.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/AoC2018Day1/ChronalCalibrationEfter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/AoC2018Day1/InputData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/AoC2019Day1/FuelCountingEfter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/AoC2019Day1/FuelCountingFöre.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/AoC2019Day1/InputData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/AoC2019Day2/InputData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/AoC2019Day2/ProgramAlarm.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/AoC2019Day2/ProgramAlarmEfter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/AoC2022Day1/CalorieCountingEfter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/AoC2022Day1/CalorieCountingFöre.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/AoC2022Day1/InputData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/AoC2022Day2/InputData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/AoC2022Day2/RockPaperScissorEfter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/AoC2022Day2/RockPaperScissorFöre.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Tomte/Tomtarna.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/AoC2018Day1/FrequencyEfterTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/AoC2018Day1/FrequencyTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/AoC2018Day1/InputDataTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/AoC2019Day1/FuelAfterTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/AoC2019Day1/FuelTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/AoC2019Day1/InputDataTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/AoC2019Day2/InputDataTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/AoC2019Day2/IntcodeComputerEfterTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/AoC2019Day2/IntcodeComputerTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/AoC2022Day1/CalorieCountingEfterKtTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/AoC2022Day1/CalorieCountingFöreKtTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/AoC2022Day1/InputDataTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/AoC2022Day2/InputDataTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/AoC2022Day2/rockPaperScissor1Test.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/AoC2022Day2/rockPaperScissor2Test.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/Tomte/TomteTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LrRGyPgqhFxDVOEpgIxVPgsWWM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/frida/IdeaProjects/FunkProgInlamning2&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="AoC2018Day1" />
+      <recent name="Tomte" />
+      <recent name="AoC2019Day2" />
+      <recent name="AoC2019Day1" />
+      <recent name="AoC2022Day2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in FunkProgInlamning2">
+    <configuration name="All in FunkProgInlamning2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FunkProgInlamning2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalorieCountingEfterKtTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FunkProgInlamning2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AoC2022Day1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="AoC2022Day1" />
+      <option name="MAIN_CLASS_NAME" value="AoC2022Day1.CalorieCountingEfterKtTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TomteTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FunkProgInlamning2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tomte.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tomte" />
+      <option name="MAIN_CLASS_NAME" value="Tomte.TomteTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rockPaperScissor1Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FunkProgInlamning2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AoC2022Day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="AoC2022Day2" />
+      <option name="MAIN_CLASS_NAME" value="AoC2022Day2.rockPaperScissor1Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rockPaperScissor2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FunkProgInlamning2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AoC2022Day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="AoC2022Day2" />
+      <option name="MAIN_CLASS_NAME" value="AoC2022Day2.rockPaperScissor2Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in FunkProgInlamning2" />
+        <item itemvalue="JUnit.TomteTest" />
+        <item itemvalue="JUnit.rockPaperScissor2Test" />
+        <item itemvalue="JUnit.rockPaperScissor1Test" />
+        <item itemvalue="JUnit.CalorieCountingEfterKtTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0710a7d0-c48c-4dd5-bcca-901969d7bd39" name="Changes" comment="" />
+      <created>1676627123578</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676627123578</updated>
+      <workItem from="1676627124954" duration="9991000" />
+      <workItem from="1676640487270" duration="4792000" />
+      <workItem from="1676886254925" duration="15109000" />
+      <workItem from="1676968683392" duration="7797000" />
+      <workItem from="1676983911745" duration="5901000" />
+      <workItem from="1677019759949" duration="408000" />
+      <workItem from="1677058239222" duration="6681000" />
+      <workItem from="1677081468747" duration="1280000" />
+      <workItem from="1677153450438" duration="1453000" />
+      <workItem from="1678727779712" duration="185000" />
+      <workItem from="1678972977484" duration="13000" />
+      <workItem from="1678974096411" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StackOverflowError" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
